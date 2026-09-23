@@ -1,0 +1,17 @@
+# Arquivos compilados em C
+*.o
+*.out
+a.out
+
+# Bibliotecas e executáveis
+*.a
+*.so
+*.dylib
+*.exe
+
+# Arquivos temporários de editores e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
